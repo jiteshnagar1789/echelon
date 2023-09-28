@@ -1,0 +1,85 @@
+*{
+    margin: 0px;
+    padding:0px;
+    border: 0px;
+
+}
+html{
+    font-size: 66.6%;
+    background-color: black;
+    
+    
+}
+.nav{
+    color:white;
+    background-color: black;
+    display: flex;
+    font-size: 2rem;
+    height: 16.2rem;
+}
+.name{
+    margin-left: 30rem;
+    margin-top: 4rem;
+    color: #138DFF;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+.last{
+    margin-left: 30rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.buttons{
+    display: flex;
+    margin-left: 2rem;
+    padding: 7rem;
+
+}
+button {
+    text-decoration: none;
+    background-color: transparent;
+    color: white;
+    font-size: 1.6rem;
+    margin-left: 2rem;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+button:hover{
+    text-decoration:underline ;
+}
+
+.head{
+    margin-top: 5rem;
+    margin-left: 10rem;
+    margin-right: 10rem;
+    background-color: #138DFF;
+    color: white;
+    text-align: center;
+}
+.photos
+{
+    height: 30rem;
+    width: 100rem;
+    margin: 10rem 20rem 0rem 20rem ;
+}
+.photo1
+{
+    height: 40rem;
+    width: 25rem;
+    background: linear-gradient(black,#138DFF);
+    border-radius: 10%;
+    text-align: center;
+
+}
+#jitesh{
+    height: 30rem;
+    width: 20rem;
+    padding: 2rem;
+    ;
+}
+.name1{
+    font-size: 2rem;
+}
+.position{
+    margin-top: 0.5rem;
+    color: white;
+}
