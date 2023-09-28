@@ -1,0 +1,76 @@
+*{
+    margin: 0px;
+    padding:0px;
+    border: 0px;
+
+}
+html{
+    font-size: 66.6%;
+    
+    
+}
+.nav{
+    color:white;
+    background-color: black;
+    display: flex;
+    font-size: 2rem;
+    height: 16.2rem;
+}
+.name{
+    margin-left: 30rem;
+    margin-top: 4rem;
+    color: #138DFF;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+.last{
+    margin-left: 30rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.buttons{
+    display: flex;
+    margin-left: 2rem;
+    padding: 7rem;
+
+}
+button {
+    text-decoration: none;
+    background-color: transparent;
+    color: white;
+    font-size: 1.6rem;
+    margin-left: 2rem;
+
+}
+
+button:hover{
+    text-decoration: underline;
+}
+/*main*/
+.row{
+    background-color: #eff3f7 ;
+    margin-left: 20rem;
+    margin-right: 20rem;
+    margin-top: 4rem;
+    border: blue solid 0.1rem;
+
+}
+.head{
+    font-size: 4rem;
+    border: black solid ;
+    margin-top: 2rem;
+    text-align: center;
+    color: #138DFF;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.descrip
+{
+    font-size: 2rem;
+    margin-top: 2rem;
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.descrip:hover{
+    color: skyblue;
+}
+
+
+
