@@ -24,12 +24,12 @@ html{
 }
 .last{
     margin-left: 30rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 .buttons{
     display: flex;
     margin-left: 2rem;
     padding: 7rem;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 button {
     text-decoration: none;
